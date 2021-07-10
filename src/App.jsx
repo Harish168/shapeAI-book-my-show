@@ -1,12 +1,9 @@
-import User from "./components/user";
-
 function App() {
-  return (
-    <div>
-      <h1>Users</h1>
-      <User name="Pavan" description="FSWD" />
-    </div>
-  );
+  return <div className="App">
+    <h1 className="text-8xl hover:text-blue-500">
+      Hai iam Harish
+    </h1>
+  </div>;
 }
 
 export default App;
