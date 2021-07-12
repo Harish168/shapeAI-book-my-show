@@ -1,8 +1,8 @@
 function App() {
-  return <div className="App">
-    <h1 className="text-8xl hover:text-blue-500">
-      Hai iam Devil___    </h1>
-  </div>;
+  return (
+  <>
+  </>
+  );
 }
 
 export default App;
